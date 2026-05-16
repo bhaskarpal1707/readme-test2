@@ -1,70 +1,53 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A506B&height=230&section=header&text=Bhaskar%20Pal&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:145A32,50:1E8449,100:27AE60&height=220&section=header&text=Bhaskar%20Pal&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=4FC3F7&center=true&width=900&lines=Data+Analyst;Python+Developer;SQL+%7C+Power+BI+%7C+ML;Research+Intern+at+ISI;Turning+Data+Into+Insights"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=27AE60&center=true&width=850&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast;Research+Intern+at+ISI"/>
 </p>
 
 <h3 align="center">
-
-📊 Data Analyst | Python Developer | Machine Learning Enthusiast
-
+Data Analyst • Python • SQL • Machine Learning
 </h3>
-
-<p align="center">
-
-<a href="mailto:bhaskarpal.official@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://bhaskarpal1707.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge"/>
-</a>
-
-</p>
 
 ---
 
-# 👨‍💻 About Me
+## About Me
 
 ```python
 class Bhaskar:
 
     role = "Data Analyst"
 
-    interests = [
-        "Machine Learning",
+    focus = [
         "Data Analytics",
-        "Visualization",
-        "Research",
-        "Business Intelligence"
+        "Machine Learning",
+        "Business Intelligence",
+        "Visualization"
     ]
 ```
 
-I enjoy transforming **raw data into meaningful insights**, building dashboards, performing analysis and applying machine learning to solve real-world problems.
+Interested in transforming raw data into meaningful insights using analytics, machine learning and visualization.
 
 ---
 
-# 🚀 Skills
+# Skills
 
----
+<table>
 
-## 💻 Programming Languages & Query Languages
+<tr>
+
+<td valign="top" width="50%">
+
+### Programming Languages & Query Languages
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
 
 </p>
 
@@ -72,13 +55,13 @@ Python • SQL
 
 ---
 
-## 🗄 Databases & SQL Engines
+### Databases & SQL Engines
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=postgres"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
 
 </p>
 
@@ -86,157 +69,137 @@ PostgreSQL • MySQL
 
 ---
 
-## 🐍 Core Python Libraries
+### Statistical & Machine Learning Techniques
+
+- Supervised Learning  
+- Unsupervised Learning  
+- Statistical Analysis  
+- Model Evaluation & Validation  
+- Feature Engineering  
+- Exploratory Data Analysis  
+
+</td>
+
+<td valign="top" width="50%">
+
+### Business Intelligence & Visualization
 
 <p>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow"/>
-
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
-
-<img src="https://img.shields.io/badge/Librosa-black?style=for-the-badge"/>
-
-</p>
-
-NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn • TensorFlow • PyTorch • OpenCV • Pyplot • Librosa
-
----
-
-## 📈 Statistical & Machine Learning Techniques
-
-<p>
-
-<img src="https://img.shields.io/badge/Supervised%20Learning-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Unsupervised%20Learning-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Statistical%20Analysis-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Model%20Evaluation-red?style=for-the-badge"/>
-
-</p>
-
-✔ Supervised Learning
-
-✔ Unsupervised Learning
-
-✔ Statistical Analysis
-
-✔ Model Evaluation & Validation
-
----
-
-## 📊 Business Intelligence & Data Visualization
-
-<p>
-
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
 
 <img src="https://img.shields.io/badge/Spreadsheet-34A853?style=for-the-badge"/>
 
 </p>
 
-Excel • Spreadsheet • Power BI • Tableau
-
 ---
 
-## 💻 Development Environments & IDEs
+### Development Environments & IDEs
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="42"/>
 
-<img src="https://skillicons.dev/icons?i=pycharm"/>
+<img src="https://skillicons.dev/icons?i=pycharm" height="42"/>
 
-<img src="https://skillicons.dev/icons?i=jupyter"/>
+<img src="https://skillicons.dev/icons?i=jupyter" height="42"/>
 
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="42"/>
+
+<img src="https://skillicons.dev/icons?i=github" height="42"/>
 
 </p>
 
-Jupyter Notebook • Google Colab • VS Code • PyCharm • GitHub
+VS Code • PyCharm • Jupyter • Colab • GitHub
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 🏷 Visual Data Annotation Stack
+### Core Python Libraries
 
-<p>
+<p align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,plotly,tensorflow,pytorch,opencv"/>
+
+</p>
+
+<p align="center">
+
+NumPy • Pandas • Matplotlib • Seaborn • Plotly • TensorFlow • PyTorch • OpenCV • Librosa • Scikit-learn
+
+</p>
+
+---
+
+### Visual Data Annotation Stack
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/CVAT-0066FF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Fiji-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Fiji-orange?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LabelStudio-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Label%20Studio-7B2CBF?style=for-the-badge"/>
 
 </p>
+
+<p align="center">
 
 CVAT • Fiji • Label Studio
 
+</p>
+
 ---
 
-# 📈 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=BhaskarPal1707&show_icons=true&theme=tokyonight"/>
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=BhaskarPal1707&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhaskarPal1707&layout=compact&theme=tokyonight"/>
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhaskarPal1707&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhaskarPal1707&theme=tokyonight"/>
+<img width="60%"
+src="https://github-readme-streak-stats.herokuapp.com?user=BhaskarPal1707&theme=transparent&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+## Find Me Around The Web
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BhaskarPal1707&theme=tokyo-night"/>
+<a href="YOUR_LINKEDIN_URL">
 
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:bhaskarpal.official@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-
-</a>
-
-<a href="https://www.linkedin.com/">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0077B5?style=for-the-badge&logo=linkedin"/>
 
 </a>
 
 <a href="https://bhaskarpal1707.github.io/portfolio/">
 
-<img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Projects%20%26%20Experience-27AE60?style=for-the-badge"/>
+
+</a>
+
+<a href="mailto:bhaskarpal.official@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail"/>
 
 </a>
 
@@ -246,6 +209,16 @@ CVAT • Fiji • Label Studio
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=BhaskarPal1707&color=blue)
+<img src="https://komarev.com/ghpvc/?username=BhaskarPal1707&label=Profile%20Views&color=27AE60&style=for-the-badge"/>
 
 </p>
+
+---
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
+
+</div>
