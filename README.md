@@ -5,31 +5,50 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=27AE60&center=true&width=850&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast;Research+Intern+at+ISI"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=3000&color=27AE60&center=true&width=850&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast;Research+Intern+at+ISI"/>
+
 </p>
 
 <h3 align="center">
 Data Analyst • Python • SQL • Machine Learning
 </h3>
 
+<p align="center">
+
+<a href="mailto:bhaskarpal.official@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://bhaskarpal1707.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-27AE60?style=flat"/>
+</a>
+
+</p>
+
 ---
 
-## About Me
+# About Me
 
 ```python
 class Bhaskar:
 
     role = "Data Analyst"
 
-    focus = [
-        "Data Analytics",
+    interests = [
         "Machine Learning",
-        "Business Intelligence",
-        "Visualization"
+        "Data Analytics",
+        "Visualization",
+        "Research",
+        "Business Intelligence"
     ]
 ```
 
-Interested in transforming raw data into meaningful insights using analytics, machine learning and visualization.
+I enjoy transforming raw data into meaningful insights using analytics, machine learning and visualization.
 
 ---
 
@@ -39,9 +58,9 @@ Interested in transforming raw data into meaningful insights using analytics, ma
 
 <tr>
 
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### Programming Languages & Query Languages
+### Programming Languages
 
 <p>
 
@@ -55,7 +74,7 @@ Python • SQL
 
 ---
 
-### Databases & SQL Engines
+### Databases
 
 <p>
 
@@ -69,7 +88,7 @@ PostgreSQL • MySQL
 
 ---
 
-### Statistical & Machine Learning Techniques
+### Statistical & Machine Learning
 
 - Supervised Learning  
 - Unsupervised Learning  
@@ -80,25 +99,10 @@ PostgreSQL • MySQL
 
 </td>
 
-<td valign="top" width="50%">
 
-### Business Intelligence & Visualization
+<td width="50%" valign="top">
 
-<p>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
-
-<img src="https://img.shields.io/badge/Spreadsheet-34A853?style=for-the-badge"/>
-
-</p>
-
----
-
-### Development Environments & IDEs
+### Development Environments
 
 <p>
 
@@ -106,7 +110,7 @@ PostgreSQL • MySQL
 
 <img src="https://skillicons.dev/icons?i=pycharm" height="42"/>
 
-<img src="https://skillicons.dev/icons?i=jupyter" height="42"/>
+<img src="https://cdn.simpleicons.org/jupyter/F37626" height="42"/>
 
 <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="42"/>
 
@@ -115,6 +119,24 @@ PostgreSQL • MySQL
 </p>
 
 VS Code • PyCharm • Jupyter • Colab • GitHub
+
+---
+
+### Business Intelligence & Visualization
+
+<p>
+
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="42"/>
+
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="42"/>
+
+<img src="https://cdn.simpleicons.org/tableau/E97627" height="42"/>
+
+<img src="https://cdn.simpleicons.org/googlesheets/34A853" height="42"/>
+
+</p>
+
+Excel • Power BI • Tableau • Spreadsheet
 
 </td>
 
@@ -128,13 +150,29 @@ VS Code • PyCharm • Jupyter • Colab • GitHub
 
 <p align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,plotly,tensorflow,pytorch,opencv"/>
+<img src="https://cdn.simpleicons.org/numpy/013243" height="45"/>
+
+<img src="https://cdn.simpleicons.org/pandas/150458" height="45"/>
+
+<img src="https://cdn.simpleicons.org/matplotlib/11557C" height="45"/>
+
+<img src="https://cdn.simpleicons.org/plotly/3F4F75" height="45"/>
+
+<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="45"/>
+
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="45"/>
+
+<img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="45"/>
+
+<img src="https://img.icons8.com/color/48/seaborn.png" height="45"/>
+
+<img src="https://img.icons8.com/color/48/audio-wave.png" height="45"/>
 
 </p>
 
 <p align="center">
 
-NumPy • Pandas • Matplotlib • Seaborn • Plotly • TensorFlow • PyTorch • OpenCV • Librosa • Scikit-learn
+NumPy • Pandas • Matplotlib • Plotly • TensorFlow • PyTorch • OpenCV • Seaborn • Librosa
 
 </p>
 
@@ -144,44 +182,34 @@ NumPy • Pandas • Matplotlib • Seaborn • Plotly • TensorFlow • PyTorc
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/CVAT-0066FF?style=for-the-badge"/>
+<img src="https://avatars.githubusercontent.com/u/40032727?s=200&v=4" height="45"/>
 
-<img src="https://img.shields.io/badge/Fiji-orange?style=for-the-badge"/>
+<img src="https://www.labelstud.io/images/opengraph-image.png" height="45"/>
 
-<img src="https://img.shields.io/badge/Label%20Studio-7B2CBF?style=for-the-badge"/>
+<img src="https://imagej.net/media/icons/fiji.png" height="45"/>
 
 </p>
 
 <p align="center">
 
-CVAT • Fiji • Label Studio
+CVAT • Label Studio • Fiji
 
 </p>
 
 ---
 
-## GitHub Analytics
+# GitHub Activity
 
 <p align="center">
 
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=BhaskarPal1707&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhaskarPal1707&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="60%"
-src="https://github-readme-streak-stats.herokuapp.com?user=BhaskarPal1707&theme=transparent&hide_border=true"/>
+<img width="70%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=BhaskarPal1707&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 ---
 
-## Find Me Around The Web
+# Find Me Around The Web
 
 <p align="center">
 
