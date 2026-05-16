@@ -29,17 +29,23 @@ Data Analyst • Python • SQL • Machine Learning
 # About Me
 
 ```python
-class Bhaskar:
+class BhaskarPal:
 
-    role = "Data Analyst"
+    def __init__(self):
 
-    interests = [
-        "Machine Learning",
-        "Data Analytics",
-        "Visualization",
-        "Research",
-        "Business Intelligence"
-    ]
+        self.role = "Data Analyst"
+
+        self.education = "MCA Graduate"
+
+        self.interests = [
+            "Machine Learning",
+            "Data Analytics",
+            "Business Intelligence",
+            "Research",
+            "Visualization"
+        ]
+
+me = BhaskarPal()
 ```
 
 I enjoy transforming raw data into meaningful insights using analytics, machine learning and visualization.
